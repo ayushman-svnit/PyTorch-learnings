@@ -35,6 +35,3 @@ To get started with the project, you will need to install the following dependen
 ├── README.md
 ```
 
-
-## 💖 Thanks Message
-Thank you for using our project! We hope it helps you to get started with PyTorch and deep learning. This is written by [readme.ai](https://readme-generator-phi.vercel.app/).
